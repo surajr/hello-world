@@ -1,2 +1,2 @@
 echo "hello world"
-jjkksjkdnsdfkjs
+sleep 2m

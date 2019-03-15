@@ -1,2 +1,2 @@
 echo "hello world"
-sleep 2m
+sleep 1m

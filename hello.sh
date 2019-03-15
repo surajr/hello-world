@@ -1,3 +1,3 @@
 echo "hello world"
-#jhasdgjhsd
-sleep 2m
+jhasdgjhsd
+#sleep 2m
